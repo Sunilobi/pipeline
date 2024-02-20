@@ -13,7 +13,7 @@
 </head>
 <body>
 
- <h1>Welcome to Microgenensis</h1>
+ <h1>Welcome to Microgenensis pvt ltd</h1>
 
     <h2>Please enter your name:</h2>
     <form action="welcome.jsp" method="POST">
